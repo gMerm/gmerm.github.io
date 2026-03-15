@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Georgios Mermigkis - Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Georgios Mermigkis"
 description              : &description "Georgios Mermigkis's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
