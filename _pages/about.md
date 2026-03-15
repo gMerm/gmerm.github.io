@@ -9,30 +9,15 @@ redirect_from:
 
 ## About Me
 
-I am **Georgios Mermigkis**, a **PhD Candidate in Machine Learning and High Performance Computing** at the **Computer Engineering & Informatics Department (CEID), University of Patras**.
+I am **Georgios Mermigkis**, a **PhD candidate** specializing in **Explainable Machine Learning** and **High Performance Computing** at the **Computer Engineering & Informatics Department (CEID), University of Patras**. My doctoral research is supervised by Assistant Professor Panagiotis Hadjidoukas.
 
-My research focuses on **Explainable Artificial Intelligence (XAI), high-performance systems, and scalable scientific computing**, particularly in the context of **large-scale simulations and scientific applications**.
+My work centers on **Explainable Artificial Intelligence (XAI)**, **Large Language Models (LLMs)**, and **High-Performance Computing**, with a focus on enabling **interpretable and efficient ML solutions** for **large-scale scientific simulations**.
 
 I am affiliated with:
 
-- **HPC Group — CEID, University of Patras**
-- **Industrial Systems Institute (ISI), ATHENA Research Center**
-- **ECM Lab collaboration with NYU Abu Dhabi**
-
-{: .notice}
-My research combines **explainability, performance engineering, and scientific computing**, enabling ML systems that are both **interpretable and computationally efficient**.
-
----
-
-## Research Interests
-
-- Explainable Artificial Intelligence (XAI)
-- High Performance Computing (HPC)
-- Scientific Machine Learning
-- Parallel & Distributed Systems
-- Performance Optimization for ML
-- Large-scale Simulation Frameworks
-- Computational Materials & Metamaterials
+- HPC Group, CEID, University of Patras
+- Industrial Systems Institute (ISI), ATHENA Research Center
+- ECM Lab, NYU Abu Dhabi (co-supervised by Assistant Professor Nikolaos Karathanasopoulos)
 
 ---
 
