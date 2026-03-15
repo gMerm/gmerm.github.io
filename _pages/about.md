@@ -9,15 +9,17 @@ redirect_from:
 
 ## About Me
 
-I am **Georgios Mermigkis**, a **PhD candidate** specializing in **Explainable Machine Learning** and **High Performance Computing** at the **Computer Engineering & Informatics Department (CEID), University of Patras**. My doctoral research is supervised by Assistant Professor Panagiotis Hadjidoukas.
+I am a PhD student in the High-Performance Computing (HPC) Group at the Computer Engineering & Informatics Department (CEID), University of Patras, advised by Associate Professor Panagiotis Hadjidoukas.
 
-My work centers on **Explainable Artificial Intelligence (XAI)**, **Large Language Models (LLMs)**, and **High-Performance Computing**, with a focus on enabling **interpretable and efficient ML solutions** for **large-scale scientific applications**.
+My research focuses on **interpretable machine learning, large language models, and high-performance computing for scientific applications**, with broader interests in numerical methods and randomized linear algebra. I previously received my M.S. in Computer Engineering and Informatics from the University of Patras.
 
 I am affiliated with:
 
-- HPC Group, CEID, University of Patras
-- Industrial Systems Institute (ISI), ATHENA Research Center
+- HPC Group, CEID, University of Patras  
+- Industrial Systems Institute (ISI), ATHENA Research Center  
 - ECM Lab, NYU Abu Dhabi (co-supervised by Assistant Professor Nikolaos Karathanasopoulos)
 
-**Startup:** Since May 2025 I have been building **[Psaxno Douleia Nafplio](https://psaxno-douleia-nafplio.gr/)**, a local job platform connecting businesses and job seekers in Nafplio.
+I also serve as Co-Founder and Public Relations Responsible of the ACM Student Chapter at the University of Patras.
+
+Startup: Since May 2025 I have been building **[Psaxno Douleia Nafplio](https://psaxno-douleia-nafplio.gr/)**, a local job platform connecting businesses and job seekers in Nafplio.
 {: .notice}
