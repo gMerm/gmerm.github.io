@@ -11,7 +11,7 @@ redirect_from:
 
 I am **Georgios Mermigkis**, a **PhD candidate** specializing in **Explainable Machine Learning** and **High Performance Computing** at the **Computer Engineering & Informatics Department (CEID), University of Patras**. My doctoral research is supervised by Assistant Professor Panagiotis Hadjidoukas.
 
-My work centers on **Explainable Artificial Intelligence (XAI)**, **Large Language Models (LLMs)**, and **High-Performance Computing**, with a focus on enabling **interpretable and efficient ML solutions** for **large-scale scientific simulations**.
+My work centers on **Explainable Artificial Intelligence (XAI)**, **Large Language Models (LLMs)**, and **High-Performance Computing**, with a focus on enabling **interpretable and efficient ML solutions** for **large-scale scientific applications**.
 
 I am affiliated with:
 
@@ -21,17 +21,3 @@ I am affiliated with:
 
 **Startup:** Since May 2025 I have been building **[Psaxno Douleia Nafplio](https://psaxno-douleia-nafplio.gr/)**, a local job platform connecting businesses and job seekers in Nafplio.
 {: .notice}
-
----
-
-## Contact
-
-📍 University of Patras, Greece  
-✉️ georgios.mermigkis@ac.upatras.gr  
-
-You can also find me on:
-
-- Google Scholar  
-- ORCID  
-- GitHub  
-- LinkedIn
