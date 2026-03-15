@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Georgios Mermigkis"
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning & HPC PhD Candidate"
   location         : "University of Patras, Greece"
-  employer         : "Industrial Systems Institute, Athena Research Center"
+  employer         : "ISI, Athena Research Center"
   uri              : # URL
   email            : "georgios.mermigkis@ac.upatras.gr" 
 
