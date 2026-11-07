@@ -38,8 +38,7 @@
       var f = tab.getAttribute('data-filter');
       tabs.forEach(function (t) { t.classList.toggle('active', t === tab); });
       pubs.forEach(function (p) {
-        var show = f === 'all' ||
-          (f === 'first' ? p.hasAttribute('data-first') : p.getAttribute('data-type') === f);
+        var show = f === 'all' || p.getAttribute('data-type') === f;
         p.classList.toggle('is-hidden', !show);
       });
     });
