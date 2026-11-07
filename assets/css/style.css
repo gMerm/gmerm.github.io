@@ -291,11 +291,12 @@ a.paper-title:hover { color: var(--accent); }
 .lang span { color: var(--ink-muted); font-size: 0.78rem; }
 
 /* ---------- Contact ---------- */
-.contact-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.contact-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+@media (max-width: 680px) { .contact-grid { grid-template-columns: 1fr; } }
 .contact-card {
   display: flex; align-items: center; gap: 14px;
   background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
-  padding: 14px 16px; box-shadow: var(--shadow-sm); color: var(--ink);
+  padding: 18px 22px; box-shadow: var(--shadow-sm); color: var(--ink);
   transition: all var(--transition); position: relative; min-width: 0;
 }
 a.contact-card:hover, button.contact-card:hover { border-color: var(--accent); box-shadow: var(--shadow-md); color: var(--ink); }
