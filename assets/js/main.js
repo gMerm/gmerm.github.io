@@ -37,10 +37,17 @@
     tab.addEventListener('click', function () {
       var f = tab.getAttribute('data-filter');
       tabs.forEach(function (t) { t.classList.toggle('active', t === tab); });
-      pubs.forEach(function (p) {
-        var show = f === 'all' || p.getAttribute('data-type') === f;
+      var last = null, lastOrder = -1;
+      pubs.forEach(function (p, i) {
+        var pick = p.getAttribute('data-pick');
+        var show = f === 'all' || (f === 'picks' ? !!pick : p.getAttribute('data-type') === f);
+        var order = f === 'picks' && pick ? +pick : i;
+        p.style.order = order;
         p.classList.toggle('is-hidden', !show);
+        p.classList.remove('is-last');
+        if (show && order > lastOrder) { last = p; lastOrder = order; }
       });
+      if (last) last.classList.add('is-last');
     });
   });
 })();
